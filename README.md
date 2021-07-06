@@ -1,6 +1,9 @@
 # clima
 
-A new Flutter project.
+Clima is flutter app which access user's location and provide them with live weather data using the openweathermap api
+
+![clima](https://user-images.githubusercontent.com/43815519/124585382-db312080-de72-11eb-91e9-b92e95707379.gif)
+
 
 ## Getting Started
 
